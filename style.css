@@ -1,0 +1,90 @@
+.bandeau {
+    margin : 10px 20px 19px 20px;
+    padding: 0px 100px 10px 100px;
+    border-width : 0;
+    width: 1400px;
+    height : 150px;
+    border-width:0px 0px 1px 0px;
+    border-color:red;
+    border-style:solid;
+}
+
+.logogauche {
+    margin : 0;
+    float:left;
+}
+
+.logodroite {
+    margin : 0px 0px 0px 100px;
+    float:left;
+}
+
+.titre {
+    padding : 30px 20px 0px 700px;
+    font-size:50px;
+    font-style:italic;
+    font-family:Times New Roman;
+    color:blue;
+}
+
+li {
+    font-style : italic;
+}
+
+
+.totoro{
+    width:1640px;
+    height:860px;
+}
+.menu {
+    border-width:0px 1px 0px 0px;
+    border-color:red;
+    border-style:double;
+    font-size:10pt;
+    text-align:left;
+    margin : 0px 20px 18px 20px;
+    padding : 20px 20px 20px 20px;
+    float:left;
+    height:800px;
+    width:300px;
+    color:green;
+}
+
+.contenu  {
+    font-size : 15pt;
+    text-align:left;
+    margin: 0px 20px 20px 0px;
+    padding: 20px 20px 20px 20px;
+    float:left;
+    width:1199px;
+    height:800px;
+    color:maroon;
+}
+
+.pieds  {
+    text-align:left;  
+    margin:0px 0px 0px 20px;
+    padding: 50px 100px 0px 100px;
+    width:1400px;
+    height:100px;
+    clear:both; 
+    color:red;
+    border-width:1px 0px 0px 0px;
+    border-color:red;
+    border-style:solid;
+}
+
+body{
+    margin:0px;
+    background:url("background.png");
+    height:1200px;
+    width:1640px;
+}
+
+a.type1:visited{
+    color:red;
+}
+
+a.type1{
+    color:red;
+}

@@ -1,0 +1,77 @@
+body {
+    background-image : url('fond_ecran.jpg');
+    background-repeat : repeat-y;
+    background-position : 50% -70%;
+    margin-left : 50px;
+}
+
+h1, h2 {
+    color : #0000FF;
+}
+
+h1 {
+    text-align : center;
+    color : #000000;
+}
+
+h2 {
+    margin-left : -10px;
+}
+
+td {
+    font-family : Times New Roman;
+}
+
+p.general {
+    text-align : justify;
+}
+
+p.special {
+    color : #FF0000;
+}
+
+table {
+    background-color : #FFFFFF;
+    margin-left : 600px;
+}
+
+th {
+    background-color : #00FF00; 
+}
+
+td.general {
+    font-style : normal;
+}
+
+td.special {
+    font-style : italic;
+}
+
+.decalage {
+    margin-left : 10cm;
+}
+
+a:link {
+    color : #F8FA53;
+}
+
+a:visited {
+    color : #9933CC;
+}
+
+a:hover {
+    color : #FF6600;
+}
+
+a:active {
+    color : #33CCFF;
+}
+
+IMG {
+    display : block;
+    height : 150px;
+    width : 300px;
+    border : 5px inset #FF00FF;
+    /*margin-left : auto;
+    margin-right : auto;*/
+}
